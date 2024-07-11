@@ -1,0 +1,10 @@
+mongodb+srv://prathameshp9456:PRATHAMESH@cluster0.yqejsn7.mongodb.net/
+
+
+port 2000;
+express 
+nodemon
+
+
+
+
